@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "MBZUAI Research Group - Eduardo da Veiga Beltrame"
-author_profile: false
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
