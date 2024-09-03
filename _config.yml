@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor of Computational Biology at MBZUAI"
   location         : "Abu Dhabi"
-  employer         : "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)"
+  employer         : # "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)"
   uri              : "https://munfred.com"
   email            : # "none@example.org" 
 
